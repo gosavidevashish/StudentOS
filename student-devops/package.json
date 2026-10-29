@@ -1,5 +1,5 @@
 {
-  "name": "student-management-devops",
+  "name": "student-management-webapp",
   "version": "1.0.0",
   "description": "Simple Student Management app demonstrating a full DevOps workflow",
   "main": "src/server.js",

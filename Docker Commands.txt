@@ -1,5 +1,0 @@
-1) docker run -d -p 3000:3000 --name student-app student-app - TO CREATE AND START THE CONTAINER
-
-2) docker stop student-app - TO STOP THE APP
-
-3) docker start student-app - TO START AGAIN THE APP
