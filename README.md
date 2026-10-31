@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 Student Management App
+# 🎓 StudentOS
 ### ⚙️ A tiny app with a *fully automated* DevOps pipeline 🚀
 
 *Push code → GitHub tests it → Docker packs it → it's ready to run anywhere.*
@@ -274,9 +274,11 @@ student-devops/
 
 ---
 
-<div align="center">
+<h3>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👨‍💻 Author</h3>
 
-<h3 align="center">👨‍💻 Author</h3>
+<br>
+
+<div align="center">
 
 <p align="center"><b>Devashish Gosavi</b></p>
 
@@ -285,6 +287,8 @@ student-devops/
     <img src="https://img.shields.io/badge/GitHub-gosavidevashish-181717?style=flat&logo=github&logoColor=white" alt="GitHub: gosavidevashish" />
   </a>
 </p>
+
+<br>
 
 <p align="center">⭐ <i>If you found this project useful, give it a star!</i> ⭐</p>
 
